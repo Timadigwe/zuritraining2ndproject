@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">zuritraining2ndproject</string>
+    <string name="hint_username">username</string>
+    <string name="hint_password">password</string>
+    <string name="button_next">next</string>
+    <string name="button_cancel">cancel</string>
+    <string name="hint_email">email</string>
+</resources>
